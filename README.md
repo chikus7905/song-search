@@ -1,4 +1,4 @@
-##🎵 iTunes Music Search
+## 🎵 iTunes Music Search
 
 A simple and responsive music search website built with HTML, CSS, and JavaScript using the iTunes Search API.
 
@@ -20,7 +20,7 @@ This project was created to practice working with REST APIs, Fetch API, asynchro
 - 📱 Responsive design
 - ⌨️ Search using the Enter key
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -29,7 +29,7 @@ This project was created to practice working with REST APIs, Fetch API, asynchro
 - iTunes Search API
 - DOM Manipulation
 
-🔌 API
+# 🔌 API
 
 This project uses the iTunes Search API to retrieve music information.
 
@@ -47,7 +47,7 @@ The API provides information such as:
 - Album artwork
 - Preview URL
 
-##🔄 How It Works
+## 🔄 How It Works
 
 User enters a song or artist
           ↓
@@ -75,7 +75,7 @@ itunes-music-search/
 ├── screenshot.png
 └── README.md
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 - How APIs work
 - How to make API requests using "fetch()"

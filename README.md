@@ -1,4 +1,4 @@
-## 🎵 iTunes Music Search
+### 🎵 iTunes Music Search
 
 A simple and responsive music search website built with HTML, CSS, and JavaScript using the iTunes Search API.
 

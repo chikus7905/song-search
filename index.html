@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iTunes Music Search</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎵 iTunes Music Search</h1>
+        <p>Search songs, artists and albums using the iTunes API</p>
+        <div class="search-box">
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Enter song or artist..."
+            >
+            <button id="searchBtn">Search</button>
+        </div>
+        <p id="loading">Searching...</p>
+        <p id="message"></p>
+        <div id="results"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
